@@ -1,0 +1,40 @@
+{
+    "language": "en",
+    "rows": [
+        [
+            { "value": "Q", "action": "character" },
+            { "value": "W", "action": "character" },
+            { "value": "E", "action": "character" },
+            { "value": "R", "action": "character" },
+            { "value": "T", "action": "character" },
+            { "value": "Y", "action": "character" },
+            { "value": "U", "action": "character" },
+            { "value": "I", "action": "character" },
+            { "value": "O", "action": "character" },
+            { "value": "P", "action": "character" }
+        ],
+        [
+            { "value": "A", "action": "character" },
+            { "value": "S", "action": "character" },
+            { "value": "D", "action": "character" },
+            { "value": "F", "action": "character" },
+            { "value": "G", "action": "character" },
+            { "value": "H", "action": "character" },
+            { "value": "J", "action": "character" },
+            { "value": "K", "action": "character" },
+            { "value": "L", "action": "character" }
+
+        ],
+        [
+            { "value": "⌫", "action": "backspace" },
+            { "value": "Z", "action": "character" },
+            { "value": "X", "action": "character" },
+            { "value": "C", "action": "character" },
+            { "value": "V", "action": "character" },
+            { "value": "B", "action": "character" },
+            { "value": "N", "action": "character" },
+            { "value": "M", "action": "character" },
+            { "value": "↵", "action": "enter" }
+        ]
+    ]
+}
